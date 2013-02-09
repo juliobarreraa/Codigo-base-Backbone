@@ -1,3 +1,11 @@
-assets/
-protected/runtime/
-themes/classic/views/
+/assets/
+/protected/runtime/
+/themes/classic/
+/framework/
+/index-test.php
+/index.php
+*.DS_STORE*
+/protected/config/*
+!/protected/config/main.php.conf
+!/protected/config/console.php.conf
+!/protected/config/test.php.conf
